@@ -10,12 +10,29 @@
 </head>
 <body>
   <header>
-    <div class="topnav">
-      <a href="index.html"><img src="img/favicon-m.png"></a>
-      <a href="index.html">Home</a>
-      <a class="active" href="about-me.html">About Me</a>
-      <a href="github-projects.html">Projects</a>
-    </div>
+    <nav class="navbar navbar-expand-lg bg-light">
+      <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="about-me.html">About Me</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="github-projects.html">GitHub Projects</a>
+            </li>
+          </ul>
+          <span class="navbar-text">
+            <a href="https://github.com/MarcusKyung" class="btn btn-primary">View GitHub</a>
+          </span>
+        </div>
+      </div>
+    </nav>
   </header>
   <section class="page-headers">
     <h1>About Me</h1>
