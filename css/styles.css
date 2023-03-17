@@ -30,5 +30,19 @@ body {
 }
 
 #headshot {
-  max-width: 15em;
+  max-width: 20em;
+  margin: auto;
+  height: auto;
+  display: block;
+}
+
+.box img {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+  float: left;
+  border: solid grey;
+  border-width: 2px;
+  padding: 2px;
 }
