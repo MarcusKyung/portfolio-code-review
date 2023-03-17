@@ -24,3 +24,11 @@ body {
   color: white;
   backdrop-filter: blur(14px) brightness(80%);
 }
+
+.card-title {
+  text-decoration: underline;
+}
+
+#headshot {
+  max-width: 15em;
+}
