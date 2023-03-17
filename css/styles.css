@@ -31,3 +31,7 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.card-title {
+  font-style: italic;
+}
