@@ -10,21 +10,6 @@ body {
   color: white;
 }
 
-#container1 {
-  position: relative;
-}
-
-.text-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: 1rem;
-  font-size: 2rem;
-  font-weight: 300;
-  color: white;
-  backdrop-filter: blur(14px) brightness(80%);
-}
-
 .card-title {
   text-decoration: underline;
 }
@@ -45,4 +30,21 @@ body {
   border: solid grey;
   border-width: 2px;
   padding: 2px;
+}
+
+#container1 {
+  position: relative;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  padding: 2rem;
+  font-size: 2rem;
+  font-weight: 300;
+  color: white;
+  backdrop-filter: blur(14px) brightness(80%);
+  line-height: 1.5;
+  color: white;
 }

@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Portfolio Landing Page_
 
 #### By _**Marcus Kyung**_
 
-#### _{Brief description of application}_
+#### _Portfolio website for Epicodus WebDev bootcamp week 1_
 
 ## Technologies Used
 
@@ -12,24 +12,23 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This simple website was developed as part of the Epicodus full time webdev bootcamp starting in March 2023. This project featured requirements to include various HTML elements, CSS styling, and links to past project repositories. Additionally, this project will be published as a GH page at https://marcuskyung.github.io/portfolio-landing-page/_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Download codebase to local device._
+* _Check all files are present including index.html, about-me.html, github-projects.html, CSS stylesheets (including Bootstrap.css) and img directory._
+* _Open website files using browser._
 
 ## Known Bugs
 
-* _No Known Bugs_
+* _Navbar collapse functionality removed due to lack of JS scripting_
+* _About me card with photo and description not responsive to viewport size changes_
+* _Homepage responsiveness inconsistant when viewport sizing changes_
+
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT - for additional inquiries regarding project repository please contact me at Kyungmj@gmail.com_
 
 Copyright (c) _2023_ _Marcus Kyung_
