@@ -16,19 +16,26 @@ _This simple website was developed as part of the Epicodus full time webdev boot
 
 ## Setup/Installation Requirements
 
-* _Download codebase to local device._
-* _Check all files are present including index.html, about-me.html, github-projects.html, CSS stylesheets (including Bootstrap.css) and img directory._
-* _Open website files using browser._
+* _Clone this repository to your desktop ensuring all files/directories are included._
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser window._
+* _Navigate site using navbar links at top of page._
 
 ## Known Bugs
 
 * _Navbar collapse functionality removed due to lack of JS scripting_
-* _About me card with photo and description not responsive to viewport size changes_
+* _About me card with photo and description not entirely responsive to viewport size changes_
 * _Homepage responsiveness inconsistant when viewport sizing changes_
 
 
 ## License
 
-_MIT - for additional inquiries regarding project repository please contact me at Kyungmj@gmail.com_
+_MIT License_
 
-Copyright (c) _2023_ _Marcus Kyung_
+_Copyright (c) [2023] [Marcus Kyung]_
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
