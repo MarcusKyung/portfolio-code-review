@@ -30,7 +30,7 @@ _This simple website was developed as part of the Epicodus full time webdev boot
 
 ## License
 
-_MIT License_
+_For additional comments/questions please contact me at KyungmJ@gmail.com_
 
 _Copyright (c) [2023] [Marcus Kyung]_
 
